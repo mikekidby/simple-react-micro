@@ -1,4 +1,7 @@
 React Microservices App
+
+Expect a 25 second delay when saving a file.
+
 This is a sample React microservices app for development. The app consists of multiple microservices that work together to provide a seamless user experience.
 
 Getting Started
