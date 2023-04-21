@@ -1,10 +1,10 @@
 # React Microservices App
 
-### Expect a 25 second delay when saving a file.
+- Expect a 25 second delay when saving a file.
 
 #### This is a sample React microservices app for development. The app consists of multiple microservices that work together to provide a seamless user experience.
 
-##G etting Started
+## Getting Started
 To get started with the app, clone the repository and install the dependencies:
 
 bash
