@@ -1,10 +1,10 @@
-#React Microservices App
+# React Microservices App
 
-###Expect a 25 second delay when saving a file.
+### Expect a 25 second delay when saving a file.
 
-####This is a sample React microservices app for development. The app consists of multiple microservices that work together to provide a seamless user experience.
+#### This is a sample React microservices app for development. The app consists of multiple microservices that work together to provide a seamless user experience.
 
-##Getting Started
+##G etting Started
 To get started with the app, clone the repository and install the dependencies:
 
 bash
@@ -22,13 +22,13 @@ The app will be available at http://localhost:3000.
 Microservices
 The app is composed of the following microservices:
 
-auth: This microservice handles user authentication.
-products: This microservice manages product information.
-cart: This microservice handles the user's shopping cart.
-checkout: This microservice handles the checkout process.
-Each microservice is implemented as a separate Node.js package that can be developed and tested independently.
+- auth: This microservice handles user authentication.
+- products: This microservice manages product information.
+- cart: This microservice handles the user's shopping cart.
+- checkout: This microservice handles the checkout process.
+- Each microservice is implemented as a separate Node.js package that can be developed and tested independently.
 
-Contributing
+## Contributing
 Contributions are welcome! If you'd like to contribute to the app, please follow these steps:
 
 Fork the repository.
