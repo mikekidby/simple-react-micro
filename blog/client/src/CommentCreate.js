@@ -1,5 +1,6 @@
 import React, { useState } from "react";
 import axios from "axios";
+import "./css/comment.css";
 
 const CommentCreate = ({ postId }) => {
   const [content, setContent] = useState("");
@@ -25,7 +26,7 @@ const CommentCreate = ({ postId }) => {
             className="form-control"
           />
         </div>
-        <button className="btn btn-primary">Submit</button>
+        <button className={`btn btn-primary test`}>Submit</button>
       </form>
     </div>
   );
